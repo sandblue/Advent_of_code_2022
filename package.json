@@ -1,0 +1,34 @@
+{
+  "name": "advent_of_code_2022",
+  "version": "1.0.0",
+  "description": "Advent_of_code_2020  https://adventofcode.com/2022",
+  "main": "index.js",
+  "scripts": {
+    "day1": "npx ts-node .\\day1\\index.ts",
+    "day2": "npx ts-node .\\day2\\index.ts",
+    "day3": "npx ts-node .\\day3\\index.ts",
+    "day4": "npx ts-node .\\day4\\index.ts",
+    "day5": "npx ts-node .\\day5\\index.ts",
+    "day6": "npx ts-node .\\day6\\index.ts",
+    "day7": "npx ts-node .\\day7\\index.ts",
+    "day8": "npx ts-node .\\day8\\index.ts",
+    "day9": "npx ts-node .\\day9\\index.ts",
+    "day10": "npx ts-node .\\day10\\index.ts",
+    "day11": "npx ts-node .\\day11\\index.ts",
+    "day12": "npx ts-node .\\day12\\index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandblue/Advent_of_code_2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandblue/Advent_of_code_2022/issues"
+  },
+  "homepage": "https://github.com/sandblue/Advent_of_code_2022#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.10"
+  }
+}
